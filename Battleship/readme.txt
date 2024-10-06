@@ -1,0 +1,1 @@
+The goal of the program was to make use of arrays and array manipulation to make a simplistic version of the game Battleship.
